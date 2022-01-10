@@ -2,6 +2,7 @@ package Easy;
 
 /**
  * Given an integer x, return true if x is palindrome integer. Console output:
+ * Question link: https://leetcode.com/problems/palindrome-number/
      * false
      * true
      * true
